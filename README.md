@@ -8,12 +8,6 @@ This is a simple, clean, and responsive personal landing page. It's designed to 
 
 This project provides a straightforward HTML and CSS template for creating a personal landing page. It's perfect for professionals, freelancers, and anyone looking to create a simple and elegant online presence. The page is designed to be easily customizable.
 
-### Screenshot
-
-![Profile Picture](download.jpg)
-
-*(Note: This is the profile picture used on the page. A full screenshot of the page would be a great addition here.)*
-
 ## Features
 
 *   **Responsive Design:** Looks great on mobile devices and desktops.
